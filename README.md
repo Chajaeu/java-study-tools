@@ -105,4 +105,4 @@ Chapter 4 배열
 - 윤예진 [[ 정 리 O ]](https://proximal-coyote-913.notion.site/Java-4-50587f32cf26436180636def64367440?pvs=4)
 - 전여준 [[ 정 리 O ]](https://omniscient-amusement-5cd.notion.site/5-acc92e1d83954fc5bca76f05680dfebe?pvs=4)
 - 김민수 [[ 정 리 ]]()
-- 차재우 [[ 정 리 ]]()
+- 차재우 [[ 정 리 O ]](https://www.notion.so/Java-study-89b703bdeb094255b558956848409aaa)
